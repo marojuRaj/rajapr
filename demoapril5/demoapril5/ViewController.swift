@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("nenu change chesa")
         print("nenu add chesa")
          print("pikiav thi")
+        print("pikiav thi")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
