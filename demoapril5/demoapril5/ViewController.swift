@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("123456789")
+        print("nenu change chesa")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
